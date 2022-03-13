@@ -1,4 +1,4 @@
-const parser = require('@babel/parser');
+const parser = require('@babel/parser');// 引入babel解析包
 const babel = require('@babel/core');// 引入babel核心
 const babelranPlugin = require('./babel-tran-plugin');
 
